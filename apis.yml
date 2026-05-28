@@ -1,0 +1,32 @@
+aid: cloudbet
+name: Cloudbet
+description: "Official Cloudbet API provides real-time sports odds and betting API to place bets programmatically"
+url: https://www.cloudbet.com/api/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Sports & Fitness"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Sports And Fitness
+  - Public APIs
+apis:
+  - name: Cloudbet
+    description: "Official Cloudbet API provides real-time sports odds and betting API to place bets programmatically"
+    humanURL: https://www.cloudbet.com/api/
+    baseURL: https://www.cloudbet.com/api/
+    tags:
+      - Sports And Fitness
+    properties:
+      - type: Documentation
+        url: https://www.cloudbet.com/api/
+common:
+  - type: Website
+    url: https://www.cloudbet.com/api/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
