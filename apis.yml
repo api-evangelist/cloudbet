@@ -27,7 +27,7 @@ description: "Official Cloudbet API provides real-time sports odds and betting A
 url: https://www.cloudbet.com/api/
 specificationVersion: '0.23'
 created: '2026-05-28'
-modified: '2026-05-28'
+modified: '2026-10-06'
 x-source: public-apis/public-apis
 x-category: "Sports & Fitness"
 x-tier: 3
@@ -47,6 +47,8 @@ apis:
       - type: Documentation
         url: https://www.cloudbet.com/api/
 common:
+  - url: https://www.cloudbet.com/en/blog/
+    type: Blog
   - type: DomainSecurity
     url: security/cloudbet-domain-security.yml
   - type: Website
