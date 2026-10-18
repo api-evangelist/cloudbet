@@ -41,7 +41,8 @@ apis:
   - name: Cloudbet
     description: "Official Cloudbet API provides real-time sports odds and betting API to place bets programmatically"
     humanURL: https://www.cloudbet.com/api/
-    tags:
+    tags: []
+    tags_raw:
       - Sports And Fitness
     properties:
       - type: Documentation
